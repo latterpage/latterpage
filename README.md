@@ -1,3 +1,1 @@
-👋 Hi, I’m @latterpage
-
-Fullstack and Web Development
+Boutique Fullstack and Web Development
